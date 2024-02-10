@@ -152,6 +152,9 @@ p {
 .prod {
     padding: 15px;
     border: 1px solid var(--cs-subprimary);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .prod h2 {
@@ -304,7 +307,7 @@ p {
     color: var(--cs-white);
 }
 
-.cc{
+.cc {
     margin-top: 30px;
     font-size: 14px;
 }
