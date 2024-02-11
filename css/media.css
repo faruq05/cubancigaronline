@@ -9,6 +9,14 @@
 }
 
 @media(max-width:991px) {
+    h1 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
     .brief_text {
         width: 100%;
     }
@@ -76,7 +84,7 @@
     }
 
     h2 {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .navbar-nav {
@@ -97,6 +105,10 @@
 
     .cp60 {
         padding: 40px 10px;
+    }
+
+    .banner_text h2{
+        font-size: 18px;
     }
 
     .brief{
